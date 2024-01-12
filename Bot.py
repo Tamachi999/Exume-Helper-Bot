@@ -6,7 +6,7 @@ import random
 # Define los ID de los administradores, reemplaza con los ID de tus administradores
 administradores = [796054522, 7727189]
 
-bot = telebot.TeleBot("6715500431:AAHZ1FHsYXZGilBgYaz_axdNK_5UJKMUv88")
+bot = telebot.TeleBot("Token Aquí")
 
 # Nombre del archivo donde se almacenarán las estadísticas
 archivo_estadisticas = "estadisticas.json"
